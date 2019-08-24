@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1442762091 source:c:\erikprogram\shader_test\shader.cpp
+	"shader.h"
+	<iostream>
+	<fstream>
+
+1442763327 c:\erikprogram\shader_test\shader.h
+	<gl/glew.h>
+	<gl/gl.h>
+	<string>
+
+1442762649 source:c:\erikprogram\shader_test\main.cpp
+	<iostream>
+	<fcntl.h>
+	<stdio.h>
+	<windows.h>
+	<gl/glew.h>
+	<gl/gl.h>
+	"shader.h"
+
